@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **MERN Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **anuragkumar3260@gmail.com**
 
