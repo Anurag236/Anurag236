@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 📫 How to reach me **anuragkumar3260@gmail.com**
+- 📫 How to reach me **anurag0236.be21@chitkara.edu.in*
 
 - ⚡ Fun fact **I am Funny**
 
